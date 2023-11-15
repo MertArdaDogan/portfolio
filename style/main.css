@@ -25,7 +25,7 @@ nav{
     font-size: 35px;
     cursor: pointer;
 }
-.logo span{
+span{
     color: #f9004d;
 }
 .navbar{
@@ -52,4 +52,46 @@ nav .button{
 nav .button:hover{
     transform: scale(1.1);
 }
-
+.main{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+    color: #fff;
+}
+.main h3{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.main h1{
+    margin: 20px 0 20px;
+    font-size: 75px;
+}
+.main h2{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.main form{
+    width: 380px;
+    max-width: 100%;
+    position: relative;
+}
+.main form input:first-child{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 14px 15px;
+    border: 2px solid #f9004d;
+    border-radius: 30px;
+}
+.main form input:last-child{
+    position: absolute;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    background-color: #f9004d;
+    color: #fff;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    top: 6px;
+    right: 6px;
+}
