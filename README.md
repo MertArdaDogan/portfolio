@@ -1,5 +1,6 @@
 # sample-portfolio
 
+https://github.com/MertArdaDogan/sample-portfolio/assets/136620536/2f42eb3b-30a3-4f41-bfb7-1e949a1981d5
 ![scrnli_16-11-2023 15-01-14](https://github.com/MertArdaDogan/sample-portfolio/assets/136620536/0f4ebfda-57d5-4ec7-bdf1-662d272754a5)
 ![scrnli_16-11-2023 15-01-16](https://github.com/MertArdaDogan/sample-portfolio/assets/136620536/99bb8c25-9f0d-43ca-9d5d-45cc666cb1b8)
 ![scrnli_16-11-2023 15-01-18](https://github.com/MertArdaDogan/sample-portfolio/assets/136620536/325fcf8c-0728-4bfe-8337-fdfabab1f20e)
