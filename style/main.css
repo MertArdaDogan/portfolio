@@ -117,13 +117,13 @@ nav .button:hover{
     justify-content: space-around;
 }
 .about-text h1{
-    color: white;
+    color: #fff;
     font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
 .about-text h4{
-    color: white;
+    color: #fff;
     letter-spacing: 2px;
     font-size: 22px;
     margin-bottom: 25px;
@@ -145,6 +145,66 @@ nav .button:hover{
     cursor: pointer;
 }
 .about-text button:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
+}
+#services{
+    background-color: #101010;
+    width: 100%;
+    padding: 100px 0;
+}
+.services-header{
+    color: #fff;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+.services-cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+}
+.services-card{
+    height: 365px;
+    width: 335px;
+    padding: 20px 35px;
+    background-color: #191919;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.services-card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #f9004d;
+}
+.services-card h4{
+    color: #fff;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+.services-card p{
+    color: #fcfc;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+.services-card .button{
+    background-color: #f9004d;
+    color: #fff;
+    font-weight: bold;
+    padding: 9px 22px;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: .4s;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+.services-card .button:hover{
     background-color: transparent;
     border: 2px solid #f9004d;
 }
